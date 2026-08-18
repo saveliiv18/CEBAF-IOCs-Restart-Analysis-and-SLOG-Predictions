@@ -265,24 +265,6 @@ A larger dataset with broader and more balanced temporal coverage would also pro
 
 ⸻
 
-Repository Structure
-
-CEBAF-IOCs-Restart-Analysis-and-SLOG-Predictions/
-│
-├── README.md
-├── data/
-│   └── slog_raw_data.csv
-├── notebooks/
-│   └── CEBAF_IOCs_Restart_Analysis_and_SLOG_Predictions.ipynb
-├── src/
-│   └── analysis.py
-└── outputs/
-    └── generated figures and results
-
-The exact structure may vary depending on whether the analysis is executed primarily through the original notebook or the standalone Python script.
-
-⸻
-
 Running the Analysis
 
 The original analysis is available through the project’s Google Colab notebook:
@@ -301,8 +283,8 @@ is available at the expected path.
 
 Authors
 
-Aston French
-Savelii Vorotnikov
+Aston French , 
+Savelii Vorotnikov , 
 Kinjy Fortunat
 
 ⸻
